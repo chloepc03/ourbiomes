@@ -1,6 +1,6 @@
 :root{
-	--mainColor:#eaeaea;
-	--secondaryColor:#fff;
+	--mainColor:#ffe8fe;
+	--secondaryColor:#F9F1F0;
 
 	--borderColor:#c1c1c1;
 
@@ -438,4 +438,5 @@ h6{font-size: 16px;}
 	color:#aaa;
 	margin-bottom:0;
   }
+  
   
